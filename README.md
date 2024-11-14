@@ -4,10 +4,9 @@
     <meta charset="utf-8">
     <meta name="description" content="補足事項：ここに入力されたものはブラウザの説明文として表示されます。">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="./img/favicon.ico">
+    <link rel="icon" href="https://yokota-yusuke.github.io/LCEit/./img/favicon.ico">
     <title>RISECAFE</title>
-    <link rel="stylesheet" href="./css/reset.css">
-    <link rel="stylesheet" href="./css/challenge12_answer.css">
+    <link rel="stylesheet" href="https://yokota-yusuke.github.io/LCEit/./css/reset.css">
     <link rel=”stylesheet” href=”https://yokota-yusuke.github.io/LCEit/./css/challenge12_answer.css”/>
 </head>
 <body>
