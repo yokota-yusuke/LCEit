@@ -8,6 +8,7 @@
     <title>RISECAFE</title>
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="stylesheet" href="./css/challenge12_answer.css">
+    <link rel=”stylesheet” href=”https://yokota-yusuke.github.io/LCEit/./css/challenge12_answer.css”/>
 </head>
 <body>
     <header>
